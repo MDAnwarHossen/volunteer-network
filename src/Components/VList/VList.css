@@ -1,0 +1,9 @@
+.trash-image{
+    width: 30px;
+}
+
+.trash-image:hover {
+    background-color: gray;
+    padding:5px;
+    border-radius:5px;
+}

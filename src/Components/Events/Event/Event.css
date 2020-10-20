@@ -1,0 +1,27 @@
+.event{
+    width: 231px;
+    cursor: pointer;
+    
+    
+    
+}
+.event h4{
+    color: white;
+    padding: 10px;
+    text-align: center;
+    background-color: green;
+    -webkit-border-bottom-right-radius: 10px;
+    -webkit-border-bottom-left-radius: 10px;
+    -moz-border-radius-bottomright: 10px;
+    -moz-border-radius-bottomleft: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+.event img {
+    width: 230px;
+    height: 230px;
+    
+}
+.event h4 a{
+    color: white;
+}

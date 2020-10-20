@@ -1,0 +1,22 @@
+.logo img{
+    height: 50px;
+}
+.register-button{
+    background-color:#3F90FC;
+    color:#FFFFFF;
+    border-radius:5px;
+    padding: 5px 20px;
+    margin:5px;
+}
+.admin-button{
+    background-color:#434141;
+    color:#FFFFFF;
+    border-radius:5px;
+    padding: 5px 20px;
+    margin:5px;
+}
+.user-button{
+    font-weight:bold;
+    background-color:#F8F9FA;
+    padding-top: 10px;
+}

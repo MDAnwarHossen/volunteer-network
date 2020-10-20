@@ -1,0 +1,17 @@
+.icon{
+    font-size: 20px;
+    padding: 10px 50px;
+    border: 1px solid lightgrey;
+    border-radius: 30px;
+    
+}
+p{
+    display: inline;
+    padding: 5px 100px;
+}
+
+button{
+    background-color: white;
+    border: none;
+    outline: none !important;
+}
